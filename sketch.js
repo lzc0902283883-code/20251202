@@ -15,7 +15,7 @@ let groundY; // 地面的 Y 座標
 
 // 根據圖片 '1/all1.png'，裡面實際上包含 6 個影格。
 // 圖片的實際尺寸為 642x102 像素。
-const spriteSheetWidth = 642; // 使用圖片的完整寬度
+const spriteSheetWidth = 535; // 使用圖片的完整寬度
 const spriteSheetHeight = 102;
 const numFrames = 6;
 
